@@ -8,5 +8,5 @@ img = Image.open(image_path)
 # Tasvirni massivga o'zlashtirish  # noqa
 img_array = np.array(img)
 
-# Natijani tekshirish
+# Natijani tekshirish  # noqa
 print(img_array)
